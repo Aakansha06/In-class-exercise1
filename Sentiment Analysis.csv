@@ -1,0 +1,52 @@
+﻿Document_ID,Content_txt,Sentiment
+0,Amazon laptop exist,Positive
+1,looking for laptop,positive
+2,for his wife,positive
+3,SSD atleat 16GB,Positive
+4,i5 prosseor,poitive
+5,comfortable ,negative
+6,Prices,Negative
+7,Windows,Positive
+8,MacBook,Positive
+9,Screen,Negative
+10,Touch Screen,poitive
+11,Good Value for Money,Positive
+12,I feel that is useless,Negative
+13,Modern Cellphone does,Negative
+14,More fragile than Mac,Negative
+15,abstract ,Positive
+16,Not found ,Negative
+17,describe method for statistical moeling,Positive
+18,based on maxium entropy,Positive
+19,Maximum likelihood,Negative
+20,Approach,Positive
+21,Maxium entropy,Positive
+22,found,Positive
+23,descibe,Positive
+24,language,Positive
+25,Process,Positive
+26,nlp,Negative
+27,concern,Positive
+28,develop,Positive
+29,statist,Positive
+30,model,Negative
+31,base,Positive
+32,maximum,Positive
+33,entropi,Negative
+34,present,Positive
+35,maximumlikelihood,Negative
+36,approach,Positive
+37,automat,Positive
+38,construct,Positive
+39,maximum,Positive
+40,entropi,Positive
+41,model,Positive
+42,describ,Negative
+43,implement,Positive
+44,approach,Positive
+45,effici,Positive
+46,use,Positive
+47,exampl,Positive
+48,sever,Positive
+49,problem,Positive
+50,natur,Positive
